@@ -1,0 +1,6 @@
+C:\Users\guest\Documents\Workspace01\Workspace01\Kisrobot.cydsn\Kisrobot.cyprj|4d412ebd-2846-4b1c-b942-0ff933e24c0a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|78742826-7cc6-4d9a-bf83-38429c3bbc38
+C:\Users\guest\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|b0b57f98-a22e-46af-80df-b73444c04ed4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1e15b3c5-b452-47ff-9835-367e9bfcde37
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|7782b895-8433-40a3-ada7-06f648e965f4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5bf792ad-be22-4529-a038-2eaaf895d1b2
